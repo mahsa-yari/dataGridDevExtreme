@@ -1,0 +1,1 @@
+export { default as ProductsModule } from '@/views/products/api';
